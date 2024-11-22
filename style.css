@@ -1,0 +1,32 @@
+body{ background-color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: medium;
+}
+
+
+
+#header{color: chartreuse;
+    text-align: center;
+margin:30px;
+border-style:double;
+border-radius: 30px;
+border-color: chocolate;}
+
+
+.unordered{color: darkgoldenrod;}
+
+.un2{color: darkmagenta;}
+
+p{color:aliceblue}
+
+h1{color:aliceblue}
+
+h2{color:aliceblue}
+
+h6{color:aliceblue}
+
+
+ul{color:aliceblue}
+
+ol{color:aliceblue}
+
